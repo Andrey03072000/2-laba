@@ -1,6 +1,4 @@
-﻿#include <iostream>
-#include "class.h"
-using namespace std;
+﻿#include "class.h"
 
 
 int main()
