@@ -1,7 +1,6 @@
-﻿#include "class.h"
-
+﻿#include "Tests.h"
 
 int main()
 {
-
+	Tests a;
 }

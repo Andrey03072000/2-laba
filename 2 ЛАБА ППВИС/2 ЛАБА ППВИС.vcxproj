@@ -140,10 +140,28 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2 ЛАБА ППВИС.cpp" />
-    <ClCompile Include="class.cpp" />
+    <ClCompile Include="administrator.cpp" />
+    <ClCompile Include="administratorTeacher.cpp" />
+    <ClCompile Include="alumnus .cpp" />
+    <ClCompile Include="employee.cpp" />
+    <ClCompile Include="faculty.cpp" />
+    <ClCompile Include="human.cpp" />
+    <ClCompile Include="student.cpp" />
+    <ClCompile Include="stuff.cpp" />
+    <ClCompile Include="teacher.cpp" />
+    <ClCompile Include="Tests.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="class.h" />
+    <ClInclude Include="administrator.h" />
+    <ClInclude Include="administratorTeacher.h" />
+    <ClInclude Include="alumnus .h" />
+    <ClInclude Include="employee.h" />
+    <ClInclude Include="faculty.h" />
+    <ClInclude Include="student.h" />
+    <ClInclude Include="human.h" />
+    <ClInclude Include="stuff.h" />
+    <ClInclude Include="teacher.h" />
+    <ClInclude Include="Tests.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
